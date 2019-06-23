@@ -18,10 +18,10 @@ Wes Holliday and Eric Pacuit, 2019, "Strategic Voting Under Uncertainty About th
 ## Contents
 
 1. voting: a directory containing the scripts that implement the various voting methods 
-  * ranking.py: definition of the Ranking class 
-  * voter.py: definition of the Voter class 
-  * profile.py: definition of the Profile class and some helper functions
-  * voting_methods.py: definition of various voting methods and some help functions
+    * ranking.py: definition of the Ranking class 
+    * voter.py: definition of the Voter class 
+    * profile.py: definition of the Profile class and some helper functions
+    * voting_methods.py: definition of various voting methods and some helper functions
 2. peflibtools: A fork of the Pythoon scripts from https://github.com/nmattei/PrefLib-Tools
 3. VotingScripts: Jupyter notebook that illustrates the scripts implementing the above voting scripts. **Note**: Uncomment the relevant %%writefile commands to overwrite the files in the voting directory.  
 4. CreateReducedProfiles: Jupyter notebook to create profiles of various sizes
